@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-## OK... not sure I'm verbalizing correctly what's going on but I'll try.
+## OK... not sure I'm verbalizing correctly what's going on but I'll give it a shot.
 ##1 Sets incoming matrix (x), sets inverse matrix (im) to NULL (e.g. clears cache for fresh matrix)
 ##2 Gets incoming matrix (x)
 ##3 Sets inverse matrix (invmat), 
